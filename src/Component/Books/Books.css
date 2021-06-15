@@ -1,0 +1,15 @@
+.container{
+    margin-top: 20px;
+}
+.card-div img{
+    height: 300px;
+    width: 90%;
+    padding: 5%;
+}
+.card-footer{
+    display: flex;
+    justify-content: space-around;
+}
+.book-price{
+    color: brown;
+}

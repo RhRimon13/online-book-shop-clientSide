@@ -1,0 +1,3 @@
+This is a online library. Here you can see books on the home page. you can buy a book by clicking "Buy Now" button. Then you can see your checkOut page. where you can confirm your order and check out. There is a order page where you can see your orders. there is an admin panel where you can add any product from add book page and from book manager you can remove any item.
+
+website link: https://online-book-shop-be224.web.app
